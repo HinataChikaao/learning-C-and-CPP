@@ -1,2 +1,2 @@
-# C-C-Projects
+# C/C++ Projects
 I am learning C/C++
